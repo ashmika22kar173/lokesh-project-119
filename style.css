@@ -1,0 +1,42 @@
+.header {
+    background: grey;
+    margin-top: 0px;
+    font-size: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.headerdiv {
+    float: none;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.headerdiv2 {
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.result {
+    box-shadow: 5px 10px 5px black;
+    font-size: 20px;
+}
+
+canvas {
+    box-shadow: 5px 10px 5px black;
+    border: 5px solid white;
+    margin-top: 170px;
+    border-radius: 25px;
+}
+
+.lokesh {
+    background-color: gray;
+    color: white;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    font-size: 15px;
+}
